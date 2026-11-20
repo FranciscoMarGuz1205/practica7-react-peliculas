@@ -1,12 +1,12 @@
-import { Link } from "react-router-dom";
+import MovieGrid from "../components/MovieGrid";
 
 function LandingPage() {
   return (
     <main>
       <h2>Catálogo de películas</h2>
-      <p>Aquí aparecerán las películas de la API.</p>
+      <p>Selecciona una película para consultar sus detalles.</p>
 
-      <Link to="/movies/550">Ver detalle de prueba</Link>
+      <MovieGrid />
     </main>
   );
 }
