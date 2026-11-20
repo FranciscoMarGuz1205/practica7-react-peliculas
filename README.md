@@ -130,7 +130,7 @@ Repositorio de GitHub:
 https://github.com/FranciscoMarGuz1205/practica7-react-peliculas
 
 Sitio en Netlify:
-Pendiente de agregar después del despliegue.
+https://practica7-react-peliculas-wnt6.netlify.app/
 
 ## Conclusión
 
